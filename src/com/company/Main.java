@@ -33,10 +33,11 @@ public class Main {
     }
     public static  void  printText(String text, String SecondText,int a){
         System.out.println(text+" "+SecondText+" "+a);
-
+        System.out.println("green");
     }
     public static int sum(int a ,int b){
         return a*b+(a*b+a*b);
+
     }
 }
 
